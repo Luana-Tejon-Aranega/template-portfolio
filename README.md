@@ -1,4 +1,4 @@
-## template-portfolio
+## Template-Portfolio
 ---
 ☝️Informações Pessoais
 😤 Luana Tejon Aranega
