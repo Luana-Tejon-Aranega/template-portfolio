@@ -18,4 +18,9 @@
 -Ferramentas: VScode, MySQL Workbench.
 ---
 #🌐 Minhas Redes
+-📧 E-mail: luana.aranega@sptech.school ☎️ Número: (11)99891-6788
+
+
+---
+#🌐 Minhas Redes
 -📧 E-mail: tejonluana@gmail.com ☎️ Número: (11)99393-1944
