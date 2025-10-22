@@ -1,6 +1,5 @@
-# Template-Portfolio
+# ✨Template-Portfolio
 ---
-
  # ☝️Informações Pessoais
  - 😤 Luana Tejon Aranega
  - ⌛ 18 anos 23/01/2007
@@ -27,6 +26,6 @@
   VScode
   MySQL Workbench
 
-  # 🌐 Minhas Redes
-  - 📧 E-mail: luana.aranega@sptech.school
-  - ☎️ Número: (11)99393-1944
+# 🌐 Minhas Redes
+- 📧 E-mail: tejonluana@gmail.com
+- ☎️ Número: (11)99393-1944
